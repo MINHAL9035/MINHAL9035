@@ -1,9 +1,14 @@
-<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" style="height: 20%; width:100%" >
+
 <h1 align="center"> I'm Muhammed Minhal</h1>
-<h3 align="center">passionate Full stack developer from India</h3>
+<h3 align="center">MERN stack developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=minhal9035&label=Profile%20views&color=0e75b6&style=flat" alt="minhal9035" /> </p>
 
-<img style="width: 50%;" align="right" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhal9035" alt="minhal9035" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/mhd_minhal" target="blank"><img src="https://img.shields.io/twitter/follow/mhd_minhal?logo=twitter&style=for-the-badge" alt="mhd_minhal" /></a> </p>
+
+<img style="width: 30%;" align="right" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 
 - 🌱 I’m currently learning **MERN**
