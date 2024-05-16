@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/mhd_minhal" target="blank"><img src="https://img.shields.io/twitter/follow/mhd_minhal?logo=twitter&style=for-the-badge" alt="mhd_minhal" /></a> </p>
 
-<img style="width: 30%;" align="right" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
+
 
 
 - 🌱 I’m currently learning **MERN**
