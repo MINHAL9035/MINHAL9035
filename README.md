@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/MINHAL9035?tab=repositories)
 
-- 💬 Ask me about **javascript,express,nodejs,mongodb,Data Structure**
+- 💬 Ask me about **javascript,express,nodejs,mongodb,Data Structure,React**
 
 - 📫 How to reach me **mhdminhal44@gmail.com**
 
