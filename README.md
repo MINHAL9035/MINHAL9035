@@ -1,6 +1,7 @@
-
+<img src="https://github.githubassets.com/assets/galaxy24-illustration-122a3375d8bc.jpg" >
 <h1 align="center"> I'm Muhammed Minhal</h1>
 <h3 align="center">MERN stack developer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhal9035&label=Profile%20views&color=0e75b6&style=flat" alt="minhal9035" /> </p>
 
