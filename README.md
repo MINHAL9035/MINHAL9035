@@ -1,4 +1,4 @@
-<img src="https://github.githubassets.com/assets/galaxy24-illustration-122a3375d8bc.jpg" >
+
 <h1 align="center"> I'm Muhammed Minhal</h1>
 <h3 align="center">MERN stack developer</h3>
 
