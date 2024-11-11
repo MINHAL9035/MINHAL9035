@@ -3,7 +3,7 @@
 <h3 align="center">MERN stack developer</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minhal9035&label=Profile%20views&color=0e75b6&style=flat" alt="minhal9035" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=minhal9035&label=Profile%20views&color=0e75b6&style=flat" alt="minhal9035" /> asdas</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhal9035" alt="minhal9035" /></a> </p>
 
